@@ -27,3 +27,6 @@
 > no  
 > 47  
 > 59
+
+# Usage
+`./static-BST`
