@@ -29,4 +29,4 @@
 > 59
 
 # Usage
-`./static-BST`
+`$ ./static-BST`
